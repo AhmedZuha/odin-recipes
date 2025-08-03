@@ -1,1 +1,1 @@
-# odin-recipes
+This project should demonstrate every thing that I leanred in this html lesson.
